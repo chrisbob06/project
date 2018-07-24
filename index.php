@@ -1,2 +1,9 @@
-<h1>COUCOU</h1>
-<h2>Coucou mamen</h2>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LOL</title>
+</head>
+<body>
+	<h1>Suce</h1>
+</body>
+</html>
